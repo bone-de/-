@@ -16,8 +16,8 @@ import traceback
 class Config:
     """全局配置管理"""
     VERSION = "1.0.0"
-    DEFAULT_API_BASE = "https://api.openai-proxy.com/v1"
-    GITHUB_REPO = "https://github.com/yourusername/yourproject"
+    DEFAULT_API_BASE = "https://open.api.gu28.top/v1"
+    GITHUB_REPO = "https://github.com/bone-de/agests"
     LOG_FILE = "chat_assistant.log"
     CONFIG_FILE = "config.yaml"
     WORKFLOW_FILE = "workflows.json"
